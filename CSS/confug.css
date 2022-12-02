@@ -1,0 +1,10 @@
+.block {
+    background-color:  red ;
+    color: purple;
+    margin-top: 50px;
+    font-weight: 800;
+    font-family: Helvetica;
+    font-size: 30px;
+    font-style: italic;
+
+}
